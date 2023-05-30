@@ -66,21 +66,24 @@ It was created without group_size to minimise VRAM usage, and with `--act-order`
     python llama.py ehartford_Wizard-Vicuna-30B-Uncensored c4 --wbits 4 --act-order --true-sequential --save_safetensors Wizard-Vicuna-30B-Uncensored-GPTQ-4bit-128g.act-order.safetensors
     ```
 
-## Thanks, and how to support.
+## Discord
+
+For further support, and discussions on these models and AI in general, join us at: [TheBloke AI's Discord server](https://discord.gg/UBgz4VXf)
+
+## Thanks, and how to contribute.
 
 Thanks to the [chirper.ai](https://chirper.ai) team!
 
-I've had a lot of people ask if they can contribute. I love providing models and helping people, but it is starting to rack up pretty big cloud computing bills.
+I've had a lot of people ask if they can contribute. I enjoy providing models and helping people, and would love to be able to spend even more time doing it, as well as expanding into new projects like fine tuning/training.
 
-So if you're able and willing to contribute, it'd be most gratefully received and will help me to keep providing models, and work on various AI projects.
+If you're able and willing to contribute, it'd be most gratefully received and will help me to keep providing models, and work on new AI projects.
 
-Donaters will get priority support on any and all AI/LLM/model questions, and I'll gladly quantise any model you'd like to try.
+Donaters will get priority support on any and all AI/LLM/model questions, plus other benefits.
 
 * Patreon: https://patreon.com/TheBlokeAI
 * Ko-Fi: https://ko-fi.com/TheBlokeAI
-* Discord: https://discord.gg/UBgz4VXf
 
-Patreon special mention: Jonathan Leane; Talal Aujan. Thank you both, and to all my other patrons and donaters.
+**Patreon special mentions**: Jonathan Leane; Talal Aujan. Thank you both, and to all my other patrons and donaters,
 
 # Original model card
 
