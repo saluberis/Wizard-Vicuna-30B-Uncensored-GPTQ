@@ -30,7 +30,7 @@ It is the result of quantising to 4bit using [GPTQ-for-LLaMa](https://github.com
 
 * [4bit GPTQ models for GPU inference](https://huggingface.co/TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ).
 * [4bit and 5bit GGML models for CPU inference](https://huggingface.co/TheBloke/Wizard-Vicuna-30B-Uncensored-GGML).
-* [float16 HF format model for GPU inference and further conversions](https://huggingface.co/ehartford/Wizard-Vicuna-30B-Uncensored).
+* [float16 HF format model for GPU inference and further conversions](https://huggingface.co/TheBloke/Wizard-Vicuna-30B-Uncensored-fp16).
 
 ## How to easily download and use this model in text-generation-webui
 
