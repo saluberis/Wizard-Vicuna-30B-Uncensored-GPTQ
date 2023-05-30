@@ -1,0 +1,8 @@
+{
+  "bits": 4,
+  "group_size": -1,
+  "damp_percent": 0.01,
+  "desc_act": True,
+  "sym": true,
+  "true_sequential": true
+}
