@@ -66,9 +66,9 @@ It was created without group_size to minimise VRAM usage, and with `--act-order`
     python llama.py ehartford_Wizard-Vicuna-30B-Uncensored c4 --wbits 4 --act-order --true-sequential --save_safetensors Wizard-Vicuna-30B-Uncensored-GPTQ-4bit-128g.act-order.safetensors
     ```
 
-## Want to support my work?
+## Thanks, and how to support.
 
-Thanks to [chirper.ai](chirper.ai)!
+Thanks to the [chirper.ai](https://chirper.ai) team!
 
 I've had a lot of people ask if they can contribute. I love providing models and helping people, but it is starting to rack up pretty big cloud computing bills.
 
