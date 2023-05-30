@@ -68,7 +68,8 @@ It was created without group_size to minimise VRAM usage, and with `--act-order`
 
 ## Discord
 
-For further support, and discussions on these models and AI in general, join us at: [TheBloke AI's Discord server](https://discord.gg/UBgz4VXf)
+For further support, and discussions on these models and AI in general, join us at:
+* [TheBloke AI's Discord server](https://discord.gg/UBgz4VXf)
 
 ## Thanks, and how to contribute.
 
